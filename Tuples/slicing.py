@@ -1,0 +1,5 @@
+my_tup = (46, 7, 39, 90)
+print(my_tup[0:2])
+print(my_tup[:3])
+print(my_tup[1:])
+print(my_tup[-4:-2])
